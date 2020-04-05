@@ -1,4 +1,4 @@
-data = [1, 2, 3, 4, 5]
+data = [a, b, c, d, e]
 
 data.each do |i|
     puts i
